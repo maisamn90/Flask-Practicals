@@ -1,0 +1,10 @@
+body{
+    color:grey;
+}
+.image_box {
+    width:100%; 
+    height:300px; 
+    background-size:cover; 
+    background-image:url("../img/casey-horner-T2l1NxKOsjY-unsplash.jpg");
+    background-position:center;
+}
